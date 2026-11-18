@@ -1,6 +1,6 @@
 # Hi, I'm yojeonggat-eun 👋
 
-I'm a Computer Science student at the University of Sindh who likes breaking things (legally) and then figuring out how to fix them. My focus is **cybersecurity and AI/LLM security**.
+It started with a simple question: *what happens if I poke this?* Now I'm a Computer Science student who spends her time breaking things (legally) and then working out how to fix them. These days I'm most curious about **cybersecurity and AI/LLM security**, from scanning networks to convincing chatbots they shouldn't have said that.
 
 Open to winter internships in SOC analysis, penetration testing and application security.
 
